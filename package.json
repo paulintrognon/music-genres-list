@@ -1,0 +1,16 @@
+{
+  "name": "music-genres-list",
+  "version": "1.0.0",
+  "description": "List of all music genres according to Wikipedia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "music",
+    "genres",
+    "list"
+  ],
+  "author": "contact@paulin.trognon.fr",
+  "license": "ISC"
+}

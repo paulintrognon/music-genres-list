@@ -8,8 +8,4 @@ module.exports = [
     name: 'Medieval Music',
     link: 'https://en.wikipedia.org/wiki/Medieval_music',
   },
-  {
-    name: 'Medieval Music',
-    link: 'https://en.wikipedia.org/wiki/Medieval_music',
-  },
 ];

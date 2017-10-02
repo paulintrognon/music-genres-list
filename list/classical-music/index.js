@@ -17,4 +17,9 @@ module.exports = [
       'https://www.youtube.com/watch?v=qKNG6EjiIsE',
     ],
   },
+  {
+    name: 'Renaissance music',
+    link: 'https://en.wikipedia.org/wiki/Renaissance_music',
+    subgenres: require('./renaissance-music'),
+  },
 ];

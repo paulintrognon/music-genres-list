@@ -2,6 +2,7 @@ module.exports = [
   {
     name: 'Mass (renaissance)',
     link: 'https://en.wikipedia.org/wiki/Mass_(music)#Renaissance',
+    subgenres: require('./mass-renaissance'),
     examples: [
       'https://www.youtube.com/watch?v=ibSeyIbNGYA',
       'https://www.youtube.com/watch?v=vlB1HR4BgUg',

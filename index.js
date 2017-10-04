@@ -1,1 +1,5 @@
-module.exports = require('./list');
+module.exports = [
+  require('./classical-music'),
+  require('./popular-music'),
+  require('./traditional-music'),
+];

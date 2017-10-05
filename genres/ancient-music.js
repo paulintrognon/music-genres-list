@@ -7,8 +7,10 @@ module.exports = {
   ],
   subgenres: [
    require('./music-of-ancient-greece'),
-   require('./music-of-ancient-rome'),
-   require('./music-of-mesopotamia'),
+   require('./music-of-ancient-india'),
+   require('./music-of-ancient-china'),
    require('./music-of-ancient-egypt'),
+   require('./music-of-mesopotamia'),
+   require('./music-of-ancient-rome'),
  ],
 };

@@ -3,9 +3,9 @@ module.exports = {
   link: 'https://en.wikipedia.org/wiki/Classical_music',
   parents: [
     require('./ancient-music'),
+    require('./medieval-music'),
   ],
   subgenres: [
-    require('./medieval-music'),
     require('./renaissance-music'),
-  ]
+  ],
 };

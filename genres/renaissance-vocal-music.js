@@ -3,7 +3,7 @@ module.exports = {
   parents: [
     require('./classical-music'),
     require('./renaissance-music'),
-  ]
+  ],
   subgenres: [
     require('./mass-renaissance'),
     require('./motet-renaissance'),

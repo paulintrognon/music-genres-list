@@ -11,7 +11,7 @@ module.exports = {
     require('./renaissance-music'),
   ],
   subgenres: [
-    require('./cantus-firums-mass'),
+    require('./cantus-firmus-mass'),
     require('./paraphrase-mass'),
     require('./parody-mass'),
   ],

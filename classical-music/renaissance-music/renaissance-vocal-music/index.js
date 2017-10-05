@@ -1,5 +1,5 @@
 module.exports = {
-  name: 'Vocal Music (Renaissance)',
+  name: 'Renaissance Vocal Music',
   subgenres: [
     require('./mass-renaissance'),
     require('./motet-renaissance'),

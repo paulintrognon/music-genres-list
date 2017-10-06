@@ -1,11 +1,11 @@
 module.exports = {
   name: 'Renaissance Vocal Music',
   parents: [
-    require('./classical-music'),
-    require('./renaissance-music'),
+    'classical-music',
+    'renaissance-music',
   ],
   subgenres: [
-    require('./mass-renaissance'),
-    require('./motet-renaissance'),
+    'mass-renaissance',
+    'motet-renaissance',
   ],
 };

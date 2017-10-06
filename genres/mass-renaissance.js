@@ -8,11 +8,11 @@ module.exports = {
     'https://www.youtube.com/watch?v=1gEV42RKf6E',
   ],
   parents: [
-    require('./renaissance-music'),
+    'renaissance-music',
   ],
   subgenres: [
-    require('./cantus-firmus-mass'),
-    require('./paraphrase-mass'),
-    require('./parody-mass'),
+    'cantus-firmus-mass',
+    'paraphrase-mass',
+    'parody-mass',
   ],
 };

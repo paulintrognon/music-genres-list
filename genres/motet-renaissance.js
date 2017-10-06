@@ -7,7 +7,7 @@ module.exports = {
     'https://www.youtube.com/watch?v=LxK8zd2hLEM',
   ],
   parents: [
-    require('./motet'),
-    require('./renaissance-music'),
+    'motet',
+    'renaissance-music',
   ],
 };

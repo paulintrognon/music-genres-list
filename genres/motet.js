@@ -3,10 +3,10 @@ module.exports = {
   link: 'https://en.wikipedia.org/wiki/Motet',
   examples: [],
   parents: [
-    require('./medieval-music'),
-    require('./renaissance-music'),
+    'medieval-music',
+    'renaissance-music',
   ],
   subgenres: [
-    require('./early-motet'),
+    'early-motet',
   ],
 };

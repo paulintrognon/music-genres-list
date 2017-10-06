@@ -6,6 +6,6 @@ module.exports = {
     'https://www.youtube.com/watch?v=kK5AohCMX0U',
   ],
   parents: [
-    require('./medieval-music'),
+    'medieval-music',
   ],
 };

@@ -6,11 +6,11 @@ module.exports = {
     'https://www.youtube.com/watch?v=X83IYWmcEFg',
   ],
   subgenres: [
-   require('./music-of-ancient-greece'),
-   require('./music-of-ancient-india'),
-   require('./music-of-ancient-china'),
-   require('./music-of-ancient-egypt'),
-   require('./music-of-mesopotamia'),
-   require('./music-of-ancient-rome'),
+   'music-of-ancient-greece',
+   'music-of-ancient-india',
+   'music-of-ancient-china',
+   'music-of-ancient-egypt',
+   'music-of-mesopotamia',
+   'music-of-ancient-rome',
  ],
 };

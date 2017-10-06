@@ -6,5 +6,6 @@ module.exports = {
   ],
   subgenres: [
     'renaissance-vocal-music',
+    'renaissance-instrumental-music',
   ],
 };

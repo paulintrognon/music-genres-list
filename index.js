@@ -21,6 +21,9 @@ module.exports = [
   require('./genres/organum'),
   require('./genres/paraphrase-mass'),
   require('./genres/parody-mass'),
+  require('./genres/renaissance-instrumental-music'),
   require('./genres/renaissance-music'),
   require('./genres/renaissance-vocal-music'),
+  require('./genres/toccata-renaissance'),
+  require('./genres/toccata'),
 ];

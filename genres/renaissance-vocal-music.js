@@ -8,4 +8,9 @@ module.exports = {
     'mass-renaissance',
     'motet-renaissance',
   ],
+  examples: [
+    'https://www.youtube.com/watch?v=ibSeyIbNGYA',
+    'https://www.youtube.com/watch?v=vlB1HR4BgUg',
+    'https://www.youtube.com/watch?v=PQo_LirQY-k',
+  ],
 };

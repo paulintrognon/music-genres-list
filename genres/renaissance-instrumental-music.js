@@ -10,5 +10,5 @@ module.exports = {
   ],
   examples: [
     'https://www.youtube.com/watch?v=eLHJMGtQy0M',
-  ]
+  ],
 };

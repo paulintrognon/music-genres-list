@@ -1,6 +1,6 @@
 const genres = require('./index');
 
-const completedGenres = genres.forEach(function (genre) {
+genres.forEach(function (genre) {
   const newGenre = Object.assign({}, genre);
   if (genre.parents && genre.parents.length) {
     newGenre.parents = genre.parents.forEach(function (parentName) {
@@ -13,3 +13,5 @@ const completedGenres = genres.forEach(function (genre) {
     });
   }
 });
+
+console.log(`${genres.length} genres listed.`)

@@ -8,4 +8,7 @@ module.exports = {
   subgenres: [
     'renaissance-music',
   ],
+  examples: [
+    'https://www.youtube.com/watch?v=_4IRMYuE1hI',
+  ],
 };

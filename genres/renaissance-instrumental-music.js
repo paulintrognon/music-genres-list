@@ -10,5 +10,7 @@ module.exports = {
   ],
   examples: [
     'https://www.youtube.com/watch?v=eLHJMGtQy0M',
+    'https://www.youtube.com/watch?v=vERc8fLOnPE',
+    'https://www.youtube.com/watch?v=MD_wZLpaVPg',
   ],
 };

@@ -1,5 +1,5 @@
 module.exports = {
-  name: 'Early Motet',
+  name: 'Motet',
   link: 'https://en.wikipedia.org/wiki/Motet',
   examples: [],
   parents: [

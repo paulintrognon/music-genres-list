@@ -9,8 +9,9 @@ module.exports = {
     'motet-renaissance',
   ],
   examples: [
+    'https://www.youtube.com/watch?v=68bfFtg92ek',
     'https://www.youtube.com/watch?v=ibSeyIbNGYA',
     'https://www.youtube.com/watch?v=vlB1HR4BgUg',
-    'https://www.youtube.com/watch?v=PQo_LirQY-k',
+    'https://www.youtube.com/watch?v=wl51iST98hA',
   ],
 };

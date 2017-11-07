@@ -9,6 +9,7 @@ module.exports = [
   require('./genres/classical-music'),
   require('./genres/classical-period-music'),
   require('./genres/early-motet'),
+  require('./genres/electronic-music'),
   require('./genres/gregorian-chant'),
   require('./genres/impressionism'),
   require('./genres/mass-renaissance'),

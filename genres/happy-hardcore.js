@@ -8,6 +8,6 @@ module.exports = {
   ],
   parents: [
     'breakbeat-hardcore',
-    'breakbeat',
+    'hardcore-electronic',
   ],
 };

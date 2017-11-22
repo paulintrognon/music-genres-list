@@ -1,4 +1,7 @@
 module.exports = [
+  require('./genres/2-step-garage'),
+  require('./genres/2-tone'),
+  require('./genres/12-bar-blues'),
   require('./genres/ancient-music'),
   require('./genres/ars-antiqua'),
   require('./genres/ars-nova'),
@@ -11,6 +14,7 @@ module.exports = [
   require('./genres/early-motet'),
   require('./genres/electronic-music'),
   require('./genres/gregorian-chant'),
+  require('./genres/happy-hardcore'),
   require('./genres/impressionism'),
   require('./genres/mass-renaissance'),
   require('./genres/medieval-music'),

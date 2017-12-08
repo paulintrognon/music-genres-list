@@ -11,8 +11,8 @@ module.exports = {
     'electronic-music',
   ],
   related: [
-    'acid-techno'
-    'acid-trance'
+    'acid-techno',
+    'acid-trance',
   ],
   subgenres: [
     'chicago-house',

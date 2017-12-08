@@ -7,7 +7,7 @@ module.exports = {
     'https://www.youtube.com/watch?v=bcJrO7-bm-U',
   ],
   parents: [
-    'breakbeat'
+    'breakbeat',
     'electronic-music',
   ],
 };
